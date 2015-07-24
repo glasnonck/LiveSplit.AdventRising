@@ -1,17 +1,7 @@
 <updates>
-    <update version="1.0.1">
-        <files>
-            <file path="Components/LiveSplit.Kotor.dll" status="changed"/>
-        </files>
-        <changelog>
-            <change>
-                Forced unpause while game closed
-            </change>
-        </changelog>
-    </update>
     <update version="1.0.0">
         <files>
-            <file path="Components/LiveSplit.Kotor.dll" status="changed"/>
+            <file path="Components/LiveSplit.AdventRising.dll" status="changed"/>
         </files>
         <changelog>
             <change>
