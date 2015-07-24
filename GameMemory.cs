@@ -27,7 +27,7 @@ namespace LiveSplit.AdventRising
 
         public GameMemory()
         {
-            IsNotLoadingPtr = new DeepPointer("Engin.dll", 0x657AB0); // == 1 if not loading
+            IsNotLoadingPtr = new DeepPointer("Engine.dll", 0x657AB0); // == 1 if not loading
             _ignorePIDs = new List<int>();
         }
 
